@@ -24,17 +24,13 @@
                 margin: 0;
             }
 
-            .full-height {
-                height: 100vh;
-            }
-
             .flex-center {
                 align-items: center;
                 display: flex;
             }
 
             .content {
-                max-width: 500px;
+                max-width: 80vw;
                 margin: 0 auto;
             }
 
